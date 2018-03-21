@@ -1,17 +1,17 @@
 # Site settings
-title: Anber Blog
-SEOTitle: AnberLu的博客 | BY Blog
+title: Anber's Blog
+SEOTitle: Anber的博客 | LN Blog
 header-img: img/post-bg-desk.jpg
 email: ln901105@163.com
 description: "Every failure is leading towards success."
-keyword: "LN, AnberLu Blog, AnberLu的博客,AnberLu,Anber,iOS, Apple, iPhone"
+keyword: "LN, Anber's Blog, Anber的博客, Anber,CEPH, KUBERNETES, DOCKER, LINUX, ML, DL, HADOOP"
 url: "http://AnberLu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/AnberLu/AnberLu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "We See The Future!"
+sidebar-about-description: "We See The Future"
 sidebar-avatar: /img/about-LN-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
