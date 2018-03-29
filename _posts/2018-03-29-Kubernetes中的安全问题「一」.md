@@ -2,7 +2,7 @@
 layout:     post
 title:   Kubernetes中的安全问题(一)
 subtitle:   authentication   authorization admissioncontroller
-date:       2018-03-30
+date:       2018-03-29
 author:     AnberLu
 header-img: img/post-bg-night.jpg
 catalog: true
