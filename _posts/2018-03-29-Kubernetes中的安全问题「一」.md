@@ -1,13 +1,13 @@
 ---
-layout:   post
-title:   Kubernetes中的安全问题「一」
-subtitle:   authentication authorization admissioncontroller
+layout:     post
+title:   Kubernetes中的安全问题(一)
+subtitle:   认证 授权 准入控制
 date:       2018-03-29
 author:     AnberLu
 header-img: img/post-bg-night.jpg
 catalog: true
 tags:
-    - KUBERNETE
+    - kubernetes
     - 开源框架
 ---
 
