@@ -1,13 +1,13 @@
 ---
-layout:   post
+layout:     post
 title:   Blockchain中的一些币
-subtitle:   EOS
+subtitle:   EOS 痴人说梦
 date:       2018-05-25
 author:     AnberLu
 header-img: img/post-bg-night.jpg
 catalog: true
 tags:
-    - BlockChain
+    - BlockChain
     - 开源框架
 ---
 
